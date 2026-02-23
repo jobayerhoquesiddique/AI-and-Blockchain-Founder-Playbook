@@ -71,3 +71,38 @@ Yes, you can!
 To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
 
 Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+
+# 🤖⛓️ AI × Blockchain Founder's Playbook
+
+## 50 High-Value Monetizable Offers, Products & Service Packages
+
+> **Your engineering agency foundation — built to earn $700–$2,000+ per project***AI Automation · AI Agents · SaaS · Blockchain · Web3 · Smart Contracts · NFTs · No-Code · Personal Brand*
+> 
+
+---
+
+## 📊 Playbook at a Glance
+
+| Section | Category | # of Offers |
+| --- | --- | --- |
+| 🤖 Section A | AI Systems & Automation | 10 offers |
+| 🧩 Section B | Productized AI Products | 7 offers |
+| 📒 Section C | Notion & System Building | 5 offers |
+| 🔐 Section D | Blockchain & Smart Contracts | 6 offers |
+| 🌐 Section E | Web3 & NFT Products | 6 offers |
+| 🔗 Section F | AI + Blockchain Hybrid | 5 offers |
+| 🎥 Section G | Personal Brand & Content | 5 offers |
+| ⚡ Section H | Developer Tools & Startup Systems | 6 offers |
+| **Total** |  | **50 Offers** |
+
+---
+
+## 💡 How to Use This Playbook
+
+- **Start with Section A or B** → Quick wins, fast cash flow, easy to explain to clients
+- **Use Section D & E** → Higher-ticket Web3 work with less competition
+- **Lead with Section F** → Your unfair advantage where AI meets blockchain
+- **Build Section C** → Passive/template income that runs alongside client work
+- **Goal:** Close 2–3 projects/month = **$2,000–$6,000/month** consistently
+
+---
